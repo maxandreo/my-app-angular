@@ -1,10 +1,9 @@
 # my-app-angular
 A simple blog-like application
 
-How to run
+# How to run
 
-# Install dependencies
+Install dependencies
 npm i
-
-# Start dev-server
+Start dev-server
 npm start
